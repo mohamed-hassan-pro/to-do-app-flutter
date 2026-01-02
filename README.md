@@ -6,7 +6,7 @@ A clean and intuitive To-Do List application built with **Flutter**. This app he
 
 | Home Screen | Add New Task | Completed Tasks |
 |:---:|:---:|:---:|
-| <img src="1.jpg" width="250" /> | <img src="2.jpg" width="250" /> | <img src="3.jpg" width="250" /> |
+| <img src="1.jpg" width="250" /> | <img src="3.jpg" width="250" /> | <img src="2.jpg" width="250" /> |
 
 ## ✨ Features
 
